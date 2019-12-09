@@ -1,4 +1,4 @@
-# sobel-edge-detection-algorithm-for-images-
+# sobel-edge-detector
 Sobel is first order or gradient based edge operator for images and it is implemented using verilog.
 
 Sobel performs a 2-D spatial gradient measurement on an image.Sobel is a discrete differentiation operator and it is used to compute an approximate absolute gradient magnitude at each pixel of an image for edge detection. Sobel operator has two masks, one mask finds out horizontal edges and other mask finds out vertical edges. This operator uses a pair of 3×3 kernels which are convolved with the original image
